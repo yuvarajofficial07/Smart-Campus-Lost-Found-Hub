@@ -1,6 +1,6 @@
 # Campus Connect Hub
 
-Smart Campus Lost & Found Hub (Top Recommendation)
+Smart Campus Lost & Found Hub
 
 The Problem: WhatsApp groups and college notice boards are flooded with messages about lost ID cards, keys, and lab coats. They get buried instantly.
 The Solution: A centralized, searchable web portal specifically for your college where students can post lost or found items. [1, 2, 3, 4]
